@@ -1,0 +1,29 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+/prompts/
+/Doc/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Reports
+/reports/
+/allure-report/
+/allure-results/
+/custom-reports/
+
+#Tool / IDE config (local caches, not project files)
+.claude/
+.commandcode/
+.playwright/
+.playwright-cli/
+.playwright-mcp/
+
